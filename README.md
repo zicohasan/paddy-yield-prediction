@@ -230,10 +230,10 @@ import sklearn.utils.validation
 If you use this code or dataset in your research, please cite:
 
 ```bibtex
-@article{hafizh2026paddy,
+@article{putra2026paddy,
   title={Synergizing High-Resolution UAV Remote Sensing with Satellite Time-Series 
          and Weather Covariates for Plot-Level Paddy Yield Prediction},
-  author={Hafizh, S. and ...},
+  author={Putra, Zico Pratama and others},
   journal={IEEE Access},
   year={2026}
 }
