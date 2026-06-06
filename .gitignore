@@ -17,6 +17,10 @@ build/
 *.xls
 *.json
 
+# Allow results/ sample outputs
+!results/*.csv
+!results/*.png
+
 # Model checkpoints (too large)
 *.pkl
 *.pth
