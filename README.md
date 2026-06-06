@@ -6,6 +6,7 @@
 > **Paper:** *Synergizing High-Resolution UAV Remote Sensing with Satellite Time-Series and Weather Covariates for Plot-Level Paddy Yield Prediction: A Benchmark of TabPFN and Machine Learning in Tropical Smallholder Systems*
 >
 > Submitted to **IEEE Access**
+<img width="2408" height="2171" alt="sentinel_ndvi_map" src="https://github.com/user-attachments/assets/db573bb4-426d-4d56-97a3-9ced52aaf5b8" />
 
 ---
 
